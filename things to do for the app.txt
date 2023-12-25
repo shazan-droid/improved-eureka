@@ -1,0 +1,29 @@
+Functionality:
+1. DEBUG AND TROUBLESHOOT
+   - Latest entry comes up at the top of the 1st page
+   -Serialized voucher numbers ; date-voucher no. . Automatically put in.
+   - Pagination numbering should be continuous
+   - Date range, CSV or JSON W/ Pie chart instead of an Excel
+   - Backup button gives a date range
+   - Press Enter to go to the next item and press it as Enter
+
+User Management:
+2. MAKE ALL THE NEW AND RELEVANT USERS, ADMINS OR NON-ADMINS
+3. Allow filtering by the user who added the entry and display the user who added the entry.
+
+Enhancements:
+4. Implement Undo and Confirm buttons for delete and edit actions.
+8. Pie chart in the Excel backup.
+
+Database:
+9. Host a database and connect to it online.
+
+2. MAKE ALL THE NEW AND RELEVANT USERS, ADMINS OR NON-ADMINS
+   - Backup button gives a date range
+9. Host a database and connect to it online.
+8. Pie chart in the Excel backup catagory wise.
+
+WHAT I AM GOING TO DO:
+   Date is showing of tommorrow when (it) comes (near) night time - Not an issue, since it is for business hours. As long as it doesn't trouble them then.
+   - Voucher number as <date>-1, and then the 1 increases. Not happening, using
+   UUID
